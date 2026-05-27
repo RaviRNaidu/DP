@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "new": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "functional": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "D:/MinGW/bin/g++.exe"
+}
